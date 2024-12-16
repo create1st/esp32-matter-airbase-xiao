@@ -31,4 +31,4 @@
 *.out
 *.app
 /.idea/
-/zone-controller/credentials.h
+/airbase/credentials.h
